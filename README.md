@@ -5,10 +5,7 @@ Chatbot criado na plataforma Azure para servir como busca inteligente de respost
 <br>
 <br>
 
-## 🔗 Link do Chatbot
-
-
-<br>
+![Chat](https://github.com/user-attachments/assets/ae50542f-b821-43e2-95e6-0a2b0878a07e)
 <!-- Imagens -->
 <br>
 <br>
