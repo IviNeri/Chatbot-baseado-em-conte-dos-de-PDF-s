@@ -7,10 +7,10 @@ Chatbot criado na plataforma Azure para servir como busca inteligente de respost
 
 ## 🔗 Link do Chatbot
 
-https://encurtador.com.br/eV7YF<br>
+
 <br>
 <!-- Imagens -->
-![YAAAAAAAAAAAAAAA](https://github.com/user-attachments/assets/252d13e6-1e6f-4b81-a589-61a4d435b6d0)<br>
+<br>
 <br>
 <br>
 
